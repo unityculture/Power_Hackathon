@@ -1,0 +1,77 @@
+<meta http-equiv=Content-Type content=text/html;charset=UTF8><div>
+	<table cellspacing="0" cellpadding="4" align="Left" rules="rows" border="1" id="GridView1" style="color:Black;background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;font-size:Small;width:500px;border-collapse:collapse;">
+		<tr align="right" style="color:White;background-color:#333333;font-weight:bold;">
+			<th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$縣市')" style="color:White;">縣市</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$鄉鎮市區')" style="color:White;">鄉鎮市區</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$村里')" style="color:White;">村里</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$售電量')" style="color:White;">售電量(度)</a></th>
+		</tr><tr align="right">
+			<td>高雄市</td><td>小港區</td><td>二苓里</td><td>1,855,414</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>小港區</td><td>三苓里</td><td>1,223,972</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>小港區</td><td>大坪里</td><td>741,099</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>小港區</td><td>大苓里</td><td>1,071,660</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>小港區</td><td>小港里</td><td>937,186</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>小港區</td><td>山明里</td><td>4,745,380</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>小港區</td><td>山東里</td><td>1,245,059</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>小港區</td><td>中厝里</td><td>8,064</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>小港區</td><td>孔宅里</td><td>1,331,814</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>小港區</td><td>正苓里</td><td>116,829</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>小港區</td><td>合作里</td><td>871,459</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>小港區</td><td>宏亮里</td><td>188,397</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>小港區</td><td>坪頂里</td><td>1,983,492</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>小港區</td><td>店鎮里</td><td>2,513,645</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>小港區</td><td>松山里</td><td>1,424,380</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>小港區</td><td>松金里</td><td>1,027,427</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>小港區</td><td>青島里</td><td>973,144</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>小港區</td><td>桂林里</td><td>5,802</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>小港區</td><td>泰山里</td><td>1,558,129</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>小港區</td><td>高松里</td><td>1,714,067</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>小港區</td><td>港口里</td><td>1,133,408</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>小港區</td><td>港正里</td><td>831,424</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>小港區</td><td>港后里</td><td>1,024,081</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>小港區</td><td>港明里</td><td>1,091,698</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>小港區</td><td>港南里</td><td>723,525</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>小港區</td><td>港墘里</td><td>759,893</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>小港區</td><td>港興里</td><td>885,873</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>小港區</td><td>無法分類</td><td>350,803</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>小港區</td><td>廈莊里</td><td>1,233,300</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>小港區</td><td>鳳宮里</td><td>776,847</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>小港區</td><td>鳳森里</td><td>6,480</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>小港區</td><td>鳳鳴里</td><td>46,311</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>小港區</td><td>鳳興里</td><td>4,785</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>小港區</td><td>濟南里</td><td>1,748,560</td>
+		</tr><tr align="right">
+			<td>合計</td><td> </td><td> </td><td>36,153,407</td>
+		</tr>
+	</table>
+</div>

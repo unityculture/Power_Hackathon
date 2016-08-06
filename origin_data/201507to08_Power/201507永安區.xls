@@ -1,0 +1,23 @@
+<meta http-equiv=Content-Type content=text/html;charset=UTF8><div>
+	<table cellspacing="0" cellpadding="4" align="Left" rules="rows" border="1" id="GridView1" style="color:Black;background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;font-size:Small;width:500px;border-collapse:collapse;">
+		<tr align="right" style="color:White;background-color:#333333;font-weight:bold;">
+			<th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$縣市')" style="color:White;">縣市</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$鄉鎮市區')" style="color:White;">鄉鎮市區</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$村里')" style="color:White;">村里</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$售電量')" style="color:White;">售電量(度)</a></th>
+		</tr><tr align="right">
+			<td>高雄市</td><td>永安區</td><td>永安里</td><td>426,100</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>永安區</td><td>永華里</td><td>496,344</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>永安區</td><td>保寧里</td><td>980,582</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>永安區</td><td>無法分類</td><td>324,297</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>永安區</td><td>新港里</td><td>334,784</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>永安區</td><td>維新里</td><td>807,945</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>永安區</td><td>鹽田里</td><td>46,108</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>合計</td><td> </td><td> </td><td>3,416,160</td>
+		</tr>
+	</table>
+</div>

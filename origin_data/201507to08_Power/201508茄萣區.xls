@@ -1,0 +1,39 @@
+<meta http-equiv=Content-Type content=text/html;charset=UTF8><div>
+	<table cellspacing="0" cellpadding="4" align="Left" rules="rows" border="1" id="GridView1" style="color:Black;background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;font-size:Small;width:500px;border-collapse:collapse;">
+		<tr align="right" style="color:White;background-color:#333333;font-weight:bold;">
+			<th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$縣市')" style="color:White;">縣市</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$鄉鎮市區')" style="color:White;">鄉鎮市區</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$村里')" style="color:White;">村里</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$售電量')" style="color:White;">售電量(度)</a></th>
+		</tr><tr align="right">
+			<td>高雄市</td><td>茄萣區</td><td>大定里</td><td>301,982</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>茄萣區</td><td>白雲里</td><td>1,921</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>茄萣區</td><td>光定里</td><td>256,198</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>茄萣區</td><td>吉定里</td><td>711,083</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>茄萣區</td><td>和協里</td><td>186,107</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>茄萣區</td><td>保定里</td><td>1,197,142</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>茄萣區</td><td>崎漏里</td><td>2,223,291</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>茄萣區</td><td>無法分類</td><td>261,152</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>茄萣區</td><td>嘉安里</td><td>3,249</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>茄萣區</td><td>嘉定里</td><td>309,139</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>茄萣區</td><td>嘉泰里</td><td>7,170</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>茄萣區</td><td>嘉福里</td><td>1,316</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>茄萣區</td><td>嘉樂里</td><td>80</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>茄萣區</td><td>嘉賜里</td><td>9,498</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>茄萣區</td><td>福德里</td><td>0</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>合計</td><td> </td><td> </td><td>5,469,328</td>
+		</tr>
+	</table>
+</div>

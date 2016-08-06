@@ -1,0 +1,41 @@
+<meta http-equiv=Content-Type content=text/html;charset=UTF8><div>
+	<table cellspacing="0" cellpadding="4" align="Left" rules="rows" border="1" id="GridView1" style="color:Black;background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;font-size:Small;width:500px;border-collapse:collapse;">
+		<tr align="right" style="color:White;background-color:#333333;font-weight:bold;">
+			<th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$縣市')" style="color:White;">縣市</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$鄉鎮市區')" style="color:White;">鄉鎮市區</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$村里')" style="color:White;">村里</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$售電量')" style="color:White;">售電量(度)</a></th>
+		</tr><tr align="right">
+			<td>高雄市</td><td>仁武區</td><td>八卦里</td><td>8,551,165</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>仁武區</td><td>大灣里</td><td>2,559,670</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>仁武區</td><td>中華里</td><td>608,196</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>仁武區</td><td>五和里</td><td>1,841,684</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>仁武區</td><td>仁和里</td><td>1,911,940</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>仁武區</td><td>仁武里</td><td>58,089</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>仁武區</td><td>仁慈里</td><td>1,032,790</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>仁武區</td><td>文武里</td><td>6,613</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>仁武區</td><td>竹後里</td><td>981,792</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>仁武區</td><td>考潭里</td><td>282,575</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>仁武區</td><td>赤山里</td><td>2,686,044</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>仁武區</td><td>後安里</td><td>5,287</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>仁武區</td><td>烏林里</td><td>0</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>仁武區</td><td>高楠里</td><td>620,490</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>仁武區</td><td>無法分類</td><td>664,541</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>仁武區</td><td>灣內里</td><td>3,566,707</td>
+		</tr><tr align="right">
+			<td>合計</td><td> </td><td> </td><td>25,377,583</td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,39 @@
+<meta http-equiv=Content-Type content=text/html;charset=UTF8><div>
+	<table cellspacing="0" cellpadding="4" align="Left" rules="rows" border="1" id="GridView1" style="color:Black;background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;font-size:Small;width:500px;border-collapse:collapse;">
+		<tr align="right" style="color:White;background-color:#333333;font-weight:bold;">
+			<th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$縣市')" style="color:White;">縣市</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$鄉鎮市區')" style="color:White;">鄉鎮市區</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$村里')" style="color:White;">村里</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$售電量')" style="color:White;">售電量(度)</a></th>
+		</tr><tr align="right">
+			<td>高雄市</td><td>橋頭區</td><td>中崎里</td><td>11,519</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>橋頭區</td><td>仕和里</td><td>895,434</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>橋頭區</td><td>仕隆里</td><td>1,089,194</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>橋頭區</td><td>仕豐里</td><td>1,773,209</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>橋頭區</td><td>甲北里</td><td>885,968</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>橋頭區</td><td>甲南里</td><td>1,105,595</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>橋頭區</td><td>白樹里</td><td>4,805</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>橋頭區</td><td>芋寮里</td><td>2,816</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>橋頭區</td><td>東林里</td><td>1,374</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>橋頭區</td><td>頂鹽里</td><td>384,626</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>橋頭區</td><td>無法分類</td><td>530,788</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>橋頭區</td><td>新莊里</td><td>308,265</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>橋頭區</td><td>德松里</td><td>865</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>橋頭區</td><td>橋南里</td><td>13,934</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>橋頭區</td><td>橋頭里</td><td>3,470</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>合計</td><td> </td><td> </td><td>7,011,862</td>
+		</tr>
+	</table>
+</div>

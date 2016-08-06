@@ -1,0 +1,77 @@
+<meta http-equiv=Content-Type content=text/html;charset=UTF8><div>
+	<table cellspacing="0" cellpadding="4" align="Left" rules="rows" border="1" id="GridView1" style="color:Black;background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;font-size:Small;width:500px;border-collapse:collapse;">
+		<tr align="right" style="color:White;background-color:#333333;font-weight:bold;">
+			<th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$縣市')" style="color:White;">縣市</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$鄉鎮市區')" style="color:White;">鄉鎮市區</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$村里')" style="color:White;">村里</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$售電量')" style="color:White;">售電量(度)</a></th>
+		</tr><tr align="right">
+			<td>高雄市</td><td>楠梓區</td><td>大昌里</td><td>5,369</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>楠梓區</td><td>中和里</td><td>1,185,155</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>楠梓區</td><td>中陽里</td><td>15,184</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>楠梓區</td><td>中興里</td><td>720,350</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>楠梓區</td><td>五常里</td><td>885,808</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>楠梓區</td><td>仁昌里</td><td>1,956,754</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>楠梓區</td><td>加昌里</td><td>3,541,637</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>楠梓區</td><td>玉屏里</td><td>791,041</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>楠梓區</td><td>宏昌里</td><td>152,410</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>楠梓區</td><td>宏南里</td><td>254,052</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>楠梓區</td><td>宏榮里</td><td>618,960</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>楠梓區</td><td>宏毅里</td><td>25,709</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>楠梓區</td><td>秀昌里</td><td>512,671</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>楠梓區</td><td>享平里</td><td>4,013</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>楠梓區</td><td>和昌里</td><td>1,107,108</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>楠梓區</td><td>東寧里</td><td>8,621</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>楠梓區</td><td>金田里</td><td>1,120,924</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>楠梓區</td><td>建昌里</td><td>878,538</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>楠梓區</td><td>泰昌里</td><td>0</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>楠梓區</td><td>國昌里</td><td>1,878</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>楠梓區</td><td>清豐里</td><td>6,699,241</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>楠梓區</td><td>惠楠里</td><td>16,580</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>楠梓區</td><td>惠豐里</td><td>185</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>楠梓區</td><td>無法分類</td><td>230,530</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>楠梓區</td><td>隆昌里</td><td>1,650,262</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>楠梓區</td><td>瑞屏里</td><td>1,851,816</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>楠梓區</td><td>稔田里</td><td>437,499</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>楠梓區</td><td>裕昌里</td><td>10,281</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>楠梓區</td><td>福昌里</td><td>2,778</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>楠梓區</td><td>翠屏里</td><td>7,697,041</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>楠梓區</td><td>慶昌里</td><td>1,533,174</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>楠梓區</td><td>興昌里</td><td>6,350</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>楠梓區</td><td>錦屏里</td><td>1,300,542</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>楠梓區</td><td>藍田里</td><td>3,036,272</td>
+		</tr><tr align="right">
+			<td>合計</td><td> </td><td> </td><td>38,258,733</td>
+		</tr>
+	</table>
+</div>

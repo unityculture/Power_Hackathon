@@ -1,0 +1,69 @@
+<meta http-equiv=Content-Type content=text/html;charset=UTF8><div>
+	<table cellspacing="0" cellpadding="4" align="Left" rules="rows" border="1" id="GridView1" style="color:Black;background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;font-size:Small;width:500px;border-collapse:collapse;">
+		<tr align="right" style="color:White;background-color:#333333;font-weight:bold;">
+			<th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$縣市')" style="color:White;">縣市</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$鄉鎮市區')" style="color:White;">鄉鎮市區</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$村里')" style="color:White;">村里</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$售電量')" style="color:White;">售電量(度)</a></th>
+		</tr><tr align="right">
+			<td>高雄市</td><td>左營區</td><td>永清里</td><td>453</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>左營區</td><td>光輝里</td><td>962,477</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>左營區</td><td>合群里</td><td>154</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>左營區</td><td>自助里</td><td>6,880</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>左營區</td><td>尾北里</td><td>12,562</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>左營區</td><td>尾西里</td><td>6,514</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>左營區</td><td>尾南里</td><td>0</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>左營區</td><td>明建里</td><td>10,400</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>左營區</td><td>果峰里</td><td>466</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>左營區</td><td>果貿里</td><td>51</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>左營區</td><td>城南里</td><td>0</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>左營區</td><td>屏山里</td><td>2,996</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>左營區</td><td>海勝里</td><td>19</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>左營區</td><td>埤北里</td><td>16</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>左營區</td><td>埤西里</td><td>19,994</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>左營區</td><td>祥和里</td><td>0</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>左營區</td><td>莒光里</td><td>640,594</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>左營區</td><td>頂北里</td><td>23</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>左營區</td><td>頂西里</td><td>5,120</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>左營區</td><td>無法分類</td><td>990</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>左營區</td><td>菜公里</td><td>53,636</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>左營區</td><td>進學里</td><td>38,126</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>左營區</td><td>新下里</td><td>37,712</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>左營區</td><td>新上里</td><td>152,640</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>左營區</td><td>新中里</td><td>6,624</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>左營區</td><td>新光里</td><td>36,965</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>左營區</td><td>路東里</td><td>0</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>左營區</td><td>福山里</td><td>26,542</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>左營區</td><td>廟北里</td><td>13,859</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>左營區</td><td>廟東里</td><td>840</td>
+		</tr><tr align="right">
+			<td>合計</td><td> </td><td> </td><td>2,036,653</td>
+		</tr>
+	</table>
+</div>

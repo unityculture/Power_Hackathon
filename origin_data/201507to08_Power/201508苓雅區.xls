@@ -1,0 +1,147 @@
+<meta http-equiv=Content-Type content=text/html;charset=UTF8><div>
+	<table cellspacing="0" cellpadding="4" align="Left" rules="rows" border="1" id="GridView1" style="color:Black;background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;font-size:Small;width:500px;border-collapse:collapse;">
+		<tr align="right" style="color:White;background-color:#333333;font-weight:bold;">
+			<th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$縣市')" style="color:White;">縣市</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$鄉鎮市區')" style="color:White;">鄉鎮市區</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$村里')" style="color:White;">村里</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$售電量')" style="color:White;">售電量(度)</a></th>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>人和里</td><td>1,175,386</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>中正里</td><td>1,654,374</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>五福里</td><td>1,988,511</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>五權里</td><td>963,262</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>仁政里</td><td>822,492</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>文昌里</td><td>1,487,020</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>日中里</td><td>1,397,486</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>正大里</td><td>2,709,280</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>正仁里</td><td>481,425</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>正心里</td><td>1,852,995</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>正文里</td><td>1,118,222</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>正言里</td><td>1,503,960</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>正義里</td><td>295,394</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>正道里</td><td>1,828,140</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>民主里</td><td>1,875,002</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>永康里</td><td>1,011,500</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>田西里</td><td>909,630</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>光華里</td><td>410,216</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>同慶里</td><td>839,951</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>安祥里</td><td>1,452,463</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>和煦里</td><td>1,177,936</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>尚義里</td><td>959,962</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>林中里</td><td>1,481,182</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>林安里</td><td>758,792</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>林西里</td><td>775,659</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>林南里</td><td>1,342,276</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>林泉里</td><td>962,594</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>林圍里</td><td>1,076,763</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>林富里</td><td>1,271,437</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>林華里</td><td>1,433,758</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>林貴里</td><td>961,438</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>林靖里</td><td>674,608</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>林榮里</td><td>1,788,659</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>林德里</td><td>1,004,359</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>林興里</td><td>701,866</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>城北里</td><td>992,697</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>城西里</td><td>332,581</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>城東里</td><td>1,259,957</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>奏捷里</td><td>718,008</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>建軍里</td><td>1,043</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>美田里</td><td>707,643</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>英明里</td><td>766,012</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>苓中里</td><td>824,803</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>苓昇里</td><td>744,487</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>苓東里</td><td>782,721</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>苓洲里</td><td>975,781</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>苓雅里</td><td>948,664</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>凱旋里</td><td>961,326</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>博仁里</td><td>487,300</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>普天里</td><td>1,753,376</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>普照里</td><td>1,946,063</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>晴朗里</td><td>609,601</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>朝陽里</td><td>605,913</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>無法分類</td><td>1,075,960</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>華堂里</td><td>1,791,586</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>意誠里</td><td>2,449,596</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>鼓中里</td><td>636,910</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>福人里</td><td>936,072</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>福地里</td><td>1,030,983</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>福西里</td><td>733,350</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>福居里</td><td>1,127,720</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>福東里</td><td>1,249,467</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>福南里</td><td>1,028,664</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>福海里</td><td>466,004</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>福康里</td><td>831,737</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>福祥里</td><td>645,377</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>福隆里</td><td>1,230,087</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>苓雅區</td><td>福壽里</td><td>711,029</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>苓雅區</td><td>廣澤里</td><td>1,090,074</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>合計</td><td> </td><td> </td><td>74,600,590</td>
+		</tr>
+	</table>
+</div>

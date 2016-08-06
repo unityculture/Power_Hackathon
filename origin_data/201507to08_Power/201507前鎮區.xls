@@ -1,0 +1,89 @@
+<meta http-equiv=Content-Type content=text/html;charset=UTF8><div>
+	<table cellspacing="0" cellpadding="4" align="Left" rules="rows" border="1" id="GridView1" style="color:Black;background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;font-size:Small;width:500px;border-collapse:collapse;">
+		<tr align="right" style="color:White;background-color:#333333;font-weight:bold;">
+			<th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$縣市')" style="color:White;">縣市</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$鄉鎮市區')" style="color:White;">鄉鎮市區</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$村里')" style="color:White;">村里</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$售電量')" style="color:White;">售電量(度)</a></th>
+		</tr><tr align="right">
+			<td>高雄市</td><td>前鎮區</td><td>仁愛里</td><td>6,633</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>前鎮區</td><td>平等里</td><td>632</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>前鎮區</td><td>民權里</td><td>30,734</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>前鎮區</td><td>竹中里</td><td>7,680</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>前鎮區</td><td>竹北里</td><td>360</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>前鎮區</td><td>竹南里</td><td>56</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>前鎮區</td><td>西甲里</td><td>10,041</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>前鎮區</td><td>良和里</td><td>2,425</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>前鎮區</td><td>忠孝里</td><td>3,059</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>前鎮區</td><td>忠純里</td><td>3,732</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>前鎮區</td><td>忠誠里</td><td>1,020</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>前鎮區</td><td>明正里</td><td>808,658</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>前鎮區</td><td>明孝里</td><td>5,387</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>前鎮區</td><td>明義里</td><td>568,010</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>前鎮區</td><td>信義里</td><td>94,320</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>前鎮區</td><td>信德里</td><td>0</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>前鎮區</td><td>前鎮里</td><td>35,069</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>前鎮區</td><td>草衙里</td><td>27,584</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>前鎮區</td><td>盛興里</td><td>0</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>前鎮區</td><td>復國里</td><td>2,696</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>前鎮區</td><td>無法分類</td><td>68,966</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>前鎮區</td><td>瑞平里</td><td>1,493,235</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>前鎮區</td><td>瑞竹里</td><td>239,461</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>前鎮區</td><td>瑞西里</td><td>368</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>前鎮區</td><td>瑞和里</td><td>685,439</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>前鎮區</td><td>瑞昌里</td><td>15,924</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>前鎮區</td><td>瑞東里</td><td>892,722</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>前鎮區</td><td>瑞南里</td><td>1,649,392</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>前鎮區</td><td>瑞崗里</td><td>75,901</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>前鎮區</td><td>瑞祥里</td><td>1,814,073</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>前鎮區</td><td>瑞華里</td><td>17,480</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>前鎮區</td><td>瑞隆里</td><td>1,510,089</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>前鎮區</td><td>瑞誠里</td><td>2,837</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>前鎮區</td><td>瑞豐里</td><td>1,074,950</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>前鎮區</td><td>興中里</td><td>17,471</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>前鎮區</td><td>興邦里</td><td>31,107</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>前鎮區</td><td>興東里</td><td>9,166</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>前鎮區</td><td>鎮東里</td><td>889</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>前鎮區</td><td>鎮海里</td><td>1,427</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>前鎮區</td><td>鎮榮里</td><td>2,221</td>
+		</tr><tr align="right">
+			<td>合計</td><td> </td><td> </td><td>11,211,214</td>
+		</tr>
+	</table>
+</div>

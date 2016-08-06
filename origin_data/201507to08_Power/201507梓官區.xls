@@ -1,0 +1,31 @@
+<meta http-equiv=Content-Type content=text/html;charset=UTF8><div>
+	<table cellspacing="0" cellpadding="4" align="Left" rules="rows" border="1" id="GridView1" style="color:Black;background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;font-size:Small;width:500px;border-collapse:collapse;">
+		<tr align="right" style="color:White;background-color:#333333;font-weight:bold;">
+			<th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$縣市')" style="color:White;">縣市</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$鄉鎮市區')" style="color:White;">鄉鎮市區</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$村里')" style="color:White;">村里</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$售電量')" style="color:White;">售電量(度)</a></th>
+		</tr><tr align="right">
+			<td>高雄市</td><td>梓官區</td><td>大舍里</td><td>4,250</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>梓官區</td><td>中崙里</td><td>413,384</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>梓官區</td><td>赤崁里</td><td>3,641</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>梓官區</td><td>典寶里</td><td>528</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>梓官區</td><td>信蚵里</td><td>185</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>梓官區</td><td>梓平里</td><td>28,315</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>梓官區</td><td>梓和里</td><td>2,540</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>梓官區</td><td>梓信里</td><td>724,130</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>梓官區</td><td>梓義里</td><td>478,247</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>梓官區</td><td>智蚵里</td><td>2,269</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>梓官區</td><td>無法分類</td><td>68,378</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>合計</td><td> </td><td> </td><td>1,725,867</td>
+		</tr>
+	</table>
+</div>

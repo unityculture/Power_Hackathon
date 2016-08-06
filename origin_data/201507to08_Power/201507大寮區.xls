@@ -1,0 +1,51 @@
+<meta http-equiv=Content-Type content=text/html;charset=UTF8><div>
+	<table cellspacing="0" cellpadding="4" align="Left" rules="rows" border="1" id="GridView1" style="color:Black;background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;font-size:Small;width:500px;border-collapse:collapse;">
+		<tr align="right" style="color:White;background-color:#333333;font-weight:bold;">
+			<th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$縣市')" style="color:White;">縣市</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$鄉鎮市區')" style="color:White;">鄉鎮市區</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$村里')" style="color:White;">村里</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$售電量')" style="color:White;">售電量(度)</a></th>
+		</tr><tr align="right">
+			<td>高雄市</td><td>大寮區</td><td>三隆里</td><td>1,791,407</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>大寮區</td><td>上寮里</td><td>945,259</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>大寮區</td><td>大寮里</td><td>358,743</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>大寮區</td><td>山頂里</td><td>2,784,414</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>大寮區</td><td>中庄里</td><td>4,671,303</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>大寮區</td><td>中興里</td><td>47,937</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>大寮區</td><td>內坑里</td><td>25,315</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>大寮區</td><td>永芳里</td><td>3,177,097</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>大寮區</td><td>光武里</td><td>17,560</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>大寮區</td><td>江山里</td><td>20,793</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>大寮區</td><td>前庄里</td><td>896,709</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>大寮區</td><td>後庄里</td><td>3,179,587</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>大寮區</td><td>拷潭里</td><td>13,628</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>大寮區</td><td>琉球里</td><td>1,955,032</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>大寮區</td><td>翁園里</td><td>1,574,482</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>大寮區</td><td>無法分類</td><td>785,636</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>大寮區</td><td>會社里</td><td>2,445,150</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>大寮區</td><td>溪寮里</td><td>14,593</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>大寮區</td><td>義仁里</td><td>0</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>大寮區</td><td>過溪里</td><td>40</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>大寮區</td><td>潮寮里</td><td>50,281</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>合計</td><td> </td><td> </td><td>24,754,966</td>
+		</tr>
+	</table>
+</div>

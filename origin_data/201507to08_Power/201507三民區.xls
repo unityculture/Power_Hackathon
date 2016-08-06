@@ -1,0 +1,179 @@
+<meta http-equiv=Content-Type content=text/html;charset=UTF8><div>
+	<table cellspacing="0" cellpadding="4" align="Left" rules="rows" border="1" id="GridView1" style="color:Black;background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;font-size:Small;width:500px;border-collapse:collapse;">
+		<tr align="right" style="color:White;background-color:#333333;font-weight:bold;">
+			<th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$縣市')" style="color:White;">縣市</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$鄉鎮市區')" style="color:White;">鄉鎮市區</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$村里')" style="color:White;">村里</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$售電量')" style="color:White;">售電量(度)</a></th>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>力行里</td><td>475,432</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>十全里</td><td>767,465</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>十美里</td><td>881,252</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>千北里</td><td>12,872</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>千秋里</td><td>723,452</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>千歲里</td><td>4,657</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>川東里</td><td>437,063</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>本上里</td><td>14,361</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>本元里</td><td>1,568,826</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>本文里</td><td>1,088,106</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>本和里</td><td>3,134,403</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>本武里</td><td>809,380</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>本揚里</td><td>378,616</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>本館里</td><td>4,058,303</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>正順里</td><td>1,673,365</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>正興里</td><td>4,919,938</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>民享里</td><td>1,119,755</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>立業里</td><td>481,838</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>立誠里</td><td>538,695</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>立德里</td><td>3,782</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>同德里</td><td>1,649,641</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>安生里</td><td>981,224</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>安吉里</td><td>2,354,067</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>安邦里</td><td>1,593,572</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>安和里</td><td>1,620,188</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>安宜里</td><td>1,378,677</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>安東里</td><td>1,681,758</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>安泰里</td><td>1,927,665</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>安康里</td><td>1,054,676</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>安發里</td><td>2,029,954</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>安寧里</td><td>507,844</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>長明里</td><td>33,160</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>建東里</td><td>130,440</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>博惠里</td><td>0</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>博愛里</td><td>52,463</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>港西里</td><td>12,034</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>港新里</td><td>8,423</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>無法分類</td><td>908,248</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>裕民里</td><td>598,265</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>達仁里</td><td>877,264</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>達明里</td><td>870,815</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>達勇里</td><td>523,084</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>達德里</td><td>852,716</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>鼎力里</td><td>2,059,038</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>鼎中里</td><td>1,842,860</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>鼎西里</td><td>3,202,868</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>鼎金里</td><td>1,737,341</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>鼎泰里</td><td>9,389,799</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>鼎強里</td><td>1,662,673</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>鼎盛里</td><td>3,322,432</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>精華里</td><td>998,717</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>鳳北里</td><td>9,320</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>鳳南里</td><td>31,037</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>德仁里</td><td>1,160,124</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>德北里</td><td>936,682</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>德行里</td><td>522,837</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>德西里</td><td>313,235</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>德東里</td><td>349,359</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>德智里</td><td>1,275,387</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>興德里</td><td>4,099</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>豐裕里</td><td>970,467</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>寶中里</td><td>1,294,586</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>寶民里</td><td>5,088</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>寶玉里</td><td>3,223,200</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>寶安里</td><td>3,574,420</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>寶泰里</td><td>2,030,697</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>寶珠里</td><td>2,495,654</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>寶國里</td><td>3,598</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>寶盛里</td><td>2,169,524</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>寶華里</td><td>11,055</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>寶業里</td><td>403,062</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>寶獅里</td><td>1,505,921</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>寶德里</td><td>2,082,798</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>寶慶里</td><td>868</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>寶興里</td><td>3,024,119</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>寶龍里</td><td>1,709,109</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>灣子里</td><td>1,949,767</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>灣中里</td><td>2,888,186</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>灣成里</td><td>991,666</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>灣利里</td><td>1,580,956</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>灣勝里</td><td>898,118</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>灣復里</td><td>1,807,431</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>灣華里</td><td>1,275,383</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>三民區</td><td>灣愛里</td><td>1,301,814</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>三民區</td><td>灣興里</td><td>1,071,049</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>合計</td><td> </td><td> </td><td>111,824,083</td>
+		</tr>
+	</table>
+</div>

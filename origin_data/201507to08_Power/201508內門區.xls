@@ -1,0 +1,41 @@
+<meta http-equiv=Content-Type content=text/html;charset=UTF8><div>
+	<table cellspacing="0" cellpadding="4" align="Left" rules="rows" border="1" id="GridView1" style="color:Black;background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;font-size:Small;width:500px;border-collapse:collapse;">
+		<tr align="right" style="color:White;background-color:#333333;font-weight:bold;">
+			<th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$縣市')" style="color:White;">縣市</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$鄉鎮市區')" style="color:White;">鄉鎮市區</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$村里')" style="color:White;">村里</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$售電量')" style="color:White;">售電量(度)</a></th>
+		</tr><tr align="right">
+			<td>高雄市</td><td>內門區</td><td>三平里</td><td>0</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>內門區</td><td>中埔里</td><td>85,042</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>內門區</td><td>內門里</td><td>334,870</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>內門區</td><td>內南里</td><td>105,346</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>內門區</td><td>內豊里</td><td>56,386</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>內門區</td><td>永吉里</td><td>73,060</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>內門區</td><td>永富里</td><td>177,338</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>內門區</td><td>永興里</td><td>91,032</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>內門區</td><td>石坑里</td><td>299</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>內門區</td><td>光興里</td><td>214,502</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>內門區</td><td>東埔里</td><td>163,639</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>內門區</td><td>金竹里</td><td>115,112</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>內門區</td><td>無法分類</td><td>872,775</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>內門區</td><td>溝坪里</td><td>281,242</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>內門區</td><td>瑞山里</td><td>49,274</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>內門區</td><td>觀亭里</td><td>672,933</td>
+		</tr><tr align="right">
+			<td>合計</td><td> </td><td> </td><td>3,292,850</td>
+		</tr>
+	</table>
+</div>

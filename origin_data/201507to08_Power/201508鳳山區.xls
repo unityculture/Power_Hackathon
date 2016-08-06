@@ -1,0 +1,141 @@
+<meta http-equiv=Content-Type content=text/html;charset=UTF8><div>
+	<table cellspacing="0" cellpadding="4" align="Left" rules="rows" border="1" id="GridView1" style="color:Black;background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;font-size:Small;width:500px;border-collapse:collapse;">
+		<tr align="right" style="color:White;background-color:#333333;font-weight:bold;">
+			<th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$縣市')" style="color:White;">縣市</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$鄉鎮市區')" style="color:White;">鄉鎮市區</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$村里')" style="color:White;">村里</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$售電量')" style="color:White;">售電量(度)</a></th>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>一甲里</td><td>40</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>二甲里</td><td>1,584</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>三民里</td><td>609,551</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>中正里</td><td>1,548,547</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>中和里</td><td>1,173</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>中崙里</td><td>15,045</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>中榮里</td><td>2,677</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>五福里</td><td>5,959</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>文山里</td><td>2,207,754</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>文英里</td><td>1,125,521</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>文華里</td><td>3,968,568</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>文福里</td><td>4,130,257</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>文德里</td><td>38,182</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>文衡里</td><td>13,072</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>北門里</td><td>1,919,356</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>正義里</td><td>4,125</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>生明里</td><td>922,805</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>光明里</td><td>767,182</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>成功里</td><td>302,262</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>老爺里</td><td>7,564</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>協和里</td><td>201</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>和德里</td><td>21,267</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>和興里</td><td>9,384</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>忠孝里</td><td>128</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>忠義里</td><td>3,403</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>忠誠里</td><td>1,492,560</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>東門里</td><td>2,310,830</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>武松里</td><td>1,259,301</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>武漢里</td><td>1,973,424</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>武慶里</td><td>1,098,328</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>南和里</td><td>0</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>南興里</td><td>517,379</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>海光里</td><td>1,197,141</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>海洋里</td><td>12,834</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>海風里</td><td>21,654</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>國隆里</td><td>10,240</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>埤頂里</td><td>2,596,784</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>曹公里</td><td>937,215</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>無法分類</td><td>1,908,494</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>善美里</td><td>4,014</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>新甲里</td><td>16,827</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>新武里</td><td>920,556</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>新強里</td><td>295,989</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>新富里</td><td>6,676</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>新樂里</td><td>0</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>新興里</td><td>585,585</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>瑞竹里</td><td>2,352,539</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>瑞興里</td><td>2,014,439</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>誠正里</td><td>36,704</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>誠信里</td><td>788,327</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>誠智里</td><td>1,079,110</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>誠義里</td><td>2,409,402</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>誠德里</td><td>942,115</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>過埤里</td><td>6,863,830</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>福祥里</td><td>4,875</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>福興里</td><td>112,718</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>鳳東里</td><td>2,492,294</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>鳳崗里</td><td>567,757</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>縣口里</td><td>212,244</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>縣衙里</td><td>590,999</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>興仁里</td><td>7,794</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>龍成里</td><td>3,200</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>鎮北里</td><td>2,408,104</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>鎮西里</td><td>313</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鳳山區</td><td>鎮東里</td><td>1,017,802</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鳳山區</td><td>鎮南里</td><td>6,905</td>
+		</tr><tr align="right">
+			<td>合計</td><td> </td><td> </td><td>58,702,909</td>
+		</tr>
+	</table>
+</div>

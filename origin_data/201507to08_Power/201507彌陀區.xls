@@ -1,0 +1,35 @@
+<meta http-equiv=Content-Type content=text/html;charset=UTF8><div>
+	<table cellspacing="0" cellpadding="4" align="Left" rules="rows" border="1" id="GridView1" style="color:Black;background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;font-size:Small;width:500px;border-collapse:collapse;">
+		<tr align="right" style="color:White;background-color:#333333;font-weight:bold;">
+			<th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$縣市')" style="color:White;">縣市</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$鄉鎮市區')" style="color:White;">鄉鎮市區</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$村里')" style="color:White;">村里</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$售電量')" style="color:White;">售電量(度)</a></th>
+		</tr><tr align="right">
+			<td>高雄市</td><td>彌陀區</td><td>文安里</td><td>605,901</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>彌陀區</td><td>光和里</td><td>456,257</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>彌陀區</td><td>南寮里</td><td>707,124</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>彌陀區</td><td>海尾里</td><td>276,329</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>彌陀區</td><td>無法分類</td><td>459,296</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>彌陀區</td><td>過港里</td><td>285,411</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>彌陀區</td><td>漯底里</td><td>485,033</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>彌陀區</td><td>彌仁里</td><td>275,074</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>彌陀區</td><td>彌陀里</td><td>783,391</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>彌陀區</td><td>彌靖里</td><td>728,944</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>彌陀區</td><td>彌壽里</td><td>291,180</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>彌陀區</td><td>舊港里</td><td>509,016</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>彌陀區</td><td>鹽埕里</td><td>537,678</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>合計</td><td> </td><td> </td><td>6,400,634</td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,69 @@
+<meta http-equiv=Content-Type content=text/html;charset=UTF8><div>
+	<table cellspacing="0" cellpadding="4" align="Left" rules="rows" border="1" id="GridView1" style="color:Black;background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;font-size:Small;width:500px;border-collapse:collapse;">
+		<tr align="right" style="color:White;background-color:#333333;font-weight:bold;">
+			<th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$縣市')" style="color:White;">縣市</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$鄉鎮市區')" style="color:White;">鄉鎮市區</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$村里')" style="color:White;">村里</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$售電量')" style="color:White;">售電量(度)</a></th>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>三和里</td><td>71,029</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>大莊里</td><td>359,244</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>大遼里</td><td>9,784</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>仁壽里</td><td>1,852,476</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>台上里</td><td>203,351</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>平安里</td><td>743</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>本洲里</td><td>737,346</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>白米里</td><td>339,301</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>竹圍里</td><td>14,709</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>協和里</td><td>1,382,730</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>協榮里</td><td>826,051</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>岡山里</td><td>44,884</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>忠孝里</td><td>5,271</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>信義里</td><td>839,587</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>前峰里</td><td>1,241,838</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>後協里</td><td>2,717,089</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>後紅里</td><td>30,427</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>為隨里</td><td>310,434</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>無法分類</td><td>1,961,469</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>程香里</td><td>9,135</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>華崗里</td><td>389,542</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>嘉峰里</td><td>476,672</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>嘉興里</td><td>1,750,023</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>壽天里</td><td>37,430</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>壽峰里</td><td>1,046,486</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>碧紅里</td><td>9,342</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>維仁里</td><td>9,678</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>劉厝里</td><td>583,008</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>潭底里</td><td>275,260</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>灣裡里</td><td>799,535</td>
+		</tr><tr align="right">
+			<td>合計</td><td> </td><td> </td><td>18,333,874</td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,51 @@
+<meta http-equiv=Content-Type content=text/html;charset=UTF8><div>
+	<table cellspacing="0" cellpadding="4" align="Left" rules="rows" border="1" id="GridView1" style="color:Black;background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;font-size:Small;width:500px;border-collapse:collapse;">
+		<tr align="right" style="color:White;background-color:#333333;font-weight:bold;">
+			<th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$縣市')" style="color:White;">縣市</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$鄉鎮市區')" style="color:White;">鄉鎮市區</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$村里')" style="color:White;">村里</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$售電量')" style="color:White;">售電量(度)</a></th>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鼓山區</td><td>內惟里</td><td>0</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鼓山區</td><td>自強里</td><td>3,364</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鼓山區</td><td>延平里</td><td>2,107</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鼓山區</td><td>忠正里</td><td>6,072</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鼓山區</td><td>明誠里</td><td>76,029</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鼓山區</td><td>河邊里</td><td>0</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鼓山區</td><td>前峰里</td><td>0</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鼓山區</td><td>厚生里</td><td>4,371</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鼓山區</td><td>峰南里</td><td>25,160</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鼓山區</td><td>無法分類</td><td>2,030</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鼓山區</td><td>登山里</td><td>7,759</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鼓山區</td><td>華豐里</td><td>12,931</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鼓山區</td><td>雄峰里</td><td>0</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鼓山區</td><td>裕興里</td><td>6,101</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鼓山區</td><td>裕豐里</td><td>4,015</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鼓山區</td><td>鼓岩里</td><td>118</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鼓山區</td><td>綠川里</td><td>4,446</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鼓山區</td><td>維生里</td><td>7,767</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鼓山區</td><td>龍子里</td><td>57,749</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>鼓山區</td><td>龍水里</td><td>29,562</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>鼓山區</td><td>麗興里</td><td>147,056</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>合計</td><td> </td><td> </td><td>396,637</td>
+		</tr>
+	</table>
+</div>

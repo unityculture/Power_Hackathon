@@ -1,0 +1,71 @@
+<meta http-equiv=Content-Type content=text/html;charset=UTF8><div>
+	<table cellspacing="0" cellpadding="4" align="Left" rules="rows" border="1" id="GridView1" style="color:Black;background-color:White;border-color:#CCCCCC;border-width:1px;border-style:None;font-size:Small;width:500px;border-collapse:collapse;">
+		<tr align="right" style="color:White;background-color:#333333;font-weight:bold;">
+			<th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$縣市')" style="color:White;">縣市</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$鄉鎮市區')" style="color:White;">鄉鎮市區</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$村里')" style="color:White;">村里</a></th><th scope="col"><a href="javascript:__doPostBack('GridView1','Sort$售電量')" style="color:White;">售電量(度)</a></th>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>三和里</td><td>16,898</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>大莊里</td><td>7,174</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>大遼里</td><td>482,383</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>仁義里</td><td>946,221</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>仁壽里</td><td>53,600</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>台上里</td><td>2,002,319</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>平安里</td><td>770,867</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>本洲里</td><td>5,102</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>白米里</td><td>491,637</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>石潭里</td><td>864,580</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>竹圍里</td><td>2,948,208</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>協榮里</td><td>22,901</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>和平里</td><td>144,117</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>岡山里</td><td>2,255,491</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>忠孝里</td><td>1,403,307</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>信義里</td><td>987</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>前峰里</td><td>314</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>後協里</td><td>17,494</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>後紅里</td><td>2,036,381</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>無法分類</td><td>529,281</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>程香里</td><td>1,748,861</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>華崗里</td><td>67,697</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>嘉峰里</td><td>6,030</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>嘉興里</td><td>15,559</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>壽天里</td><td>1,627,711</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>壽峰里</td><td>2,141</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>碧紅里</td><td>2,195,600</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>福興里</td><td>390,575</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>維仁里</td><td>550,648</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>高雄市</td><td>岡山區</td><td>劉厝里</td><td>11,823</td>
+		</tr><tr align="right">
+			<td>高雄市</td><td>岡山區</td><td>灣裡里</td><td>4,161</td>
+		</tr><tr align="right" style="background-color:LightGrey;">
+			<td>合計</td><td> </td><td> </td><td>21,620,068</td>
+		</tr>
+	</table>
+</div>
