@@ -8,15 +8,32 @@ library(plotly)
 ###將所有資料讀入，並且合併###
 setwd("~/Documents/DSP/Power_Hackathon/origin_data")
 power <- read.csv("1040708_kao_power.csv", header = T, stringsAsFactors = F)
-edu <- read.csv("104_edu_twomonth.csv", header = T, stringsAsFactors = F)
-income <- read.csv("104_income_twomonth.csv",  header = T, stringsAsFactors = F)
-household <- read.csv("104_household_m07.csv", header = T, stringsAsFactors = F)
-life <- read.csv("104_life_twomonth.csv", header = T, stringsAsFactors = F)
 
+edu <- read.csv("104_edu_twomonth.csv", header = T, stringsAsFactors = F)
+# 教育程度抓出10407
+edu %>% 
+  filter(統計年月 == 10407) -> edu
+
+income <- read.csv("104_income_twomonth.csv",  header = T, stringsAsFactors = F)
+# 所得總額抓出10407
+income %>% 
+  mutate(縣市 = '高雄市') %>% 
+  filter(統計年月 == 10407) -> income
+colnames(income) <- c('統計年月', '行政區域', '納稅單位', '綜合所得總額', '綜合所得平均數', '綜合所得中位數', '縣市')
+dai <- as.data.frame(matrix(c('10407', '杉林區大愛里', '545', '345602', '634', '532', '高雄市'), nrow = 1))
+colnames(dai) <- colnames(income)
+income <- rbind(income, dai)
+
+household <- read.csv("104_household_m07.csv", header = T, stringsAsFactors = F)
+
+life <- read.csv("104_life_twomonth.csv", header = T, stringsAsFactors = F)
+# 生死結離抓出10407
+life %>% 
+  filter(統計年月 == 10407) -> life
 
 data <- sqldf(
   "select power.*, edu.教育程度總計, 大學以上比例, 大學比例, 大學以下比例,
-          income.納稅單位, 綜合所得總額, 綜合所得中位數, 綜合所得IQR,
+          income.納稅單位, 綜合所得總額, 綜合所得平均數, 綜合所得中位數,
           household.戶數, 總人數, 女性比例, 男性比例, 少年人口比例, 青年人口比例, 壯年人口比例, 老年人口比例,
           life.出生數, `出生數.男`, `出生數.女`, 結婚對數, 離婚對數
    from power left join edu on power.統計年月 = edu.統計年月
@@ -61,9 +78,7 @@ data %>%
         axis.text.x = element_text(angle = 45, hjust =1))+
   ggsave('~/Dropbox/DSP/Power/data/104年台北市各區每戶平均用電度數分佈.png', width = 10, height = 10)
 
-
-
-#write.csv(data, "~/Dropbox/DSP/Power/data/data.csv", fileEncoding = "big5", row.names = F)
+# write.csv(data, "~/Downloads/Power_Hackathon-master/origin_data/ks_data.csv", row.names = F)
 
 data %>% 
   filter(統計年月 == c(10407)) %>% 

@@ -7,7 +7,9 @@ setwd("~/Documents/DSP/Power_Hackathon")
 household <- fread("origin_data/tw_household.csv") 
 household %>% 
   filter(str_detect(area, "高雄市"), year == c(10407)) %>% 
-  mutate(縣市 = substr(area,1,3), 行政區域 = paste(substr(area,4,6), sub_area, sep = '')) %>% 
+  mutate(縣市 = '高雄市', 
+         area = str_replace(area, '高雄市', ''),
+         行政區域 = paste0(area, sub_area)) %>% 
   select(year, 縣市, 行政區域, household, ppl.total, gender, age, counts) -> household
 colnames(household) <- c("統計年月","縣市","行政區域","戶數","總人數","性別","年齡","人數")
 
@@ -46,8 +48,6 @@ household <- sqldf(
    and household_gender.行政區域 = household_age.行政區域"
 )
 
-household[household$行政區域=="萬華區糖廍里","行政區域"] <- "萬華區糖部里"
-
 household %>% 
   mutate(女性比例 = round(女性/總人數,4),
          男性比例 = round(男性/總人數,4),
@@ -55,6 +55,9 @@ household %>%
          青年人口比例 = round(青年人口/總人數,4),
          壯年人口比例 = round(壯年人口/總人數,4),
          老年人口比例 = round(老年人口/總人數,4)) -> household2
+
+substr(household2[substr(household2$行政區域, 1, 2) == '鳳山', 3], 3, 3) <- rep('區', 76)
+substr(household2[substr(household2$行政區域, 1, 2) == '三民', 3], 3, 3) <- rep('區', 86)
 
 write.csv(household2, "origin_data/104_household_m07.csv", row.names = F)
 
